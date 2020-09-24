@@ -1,0 +1,15 @@
+/Users/nishimuraryuu/native/jitsi-videobridge/src/test/java/org/jitsi/videobridge/OSGiHandler.java
+/Users/nishimuraryuu/native/jitsi-videobridge/src/test/java/org/jitsi/videobridge/rest/MockBinder.java
+/Users/nishimuraryuu/native/jitsi-videobridge/src/test/java/org/jitsi/videobridge/Util.java
+/Users/nishimuraryuu/native/jitsi-videobridge/src/test/java/org/jitsi/videobridge/rest/root/colibri/mucclient/MucClientTest.java
+/Users/nishimuraryuu/native/jitsi-videobridge/src/test/java/org/jitsi/videobridge/rest/root/colibri/ColibriResourceTest.java
+/Users/nishimuraryuu/native/jitsi-videobridge/src/test/java/org/jitsi/videobridge/xmpp/MediaStreamTrackFactoryTest.java
+/Users/nishimuraryuu/native/jitsi-videobridge/src/test/java/org/jitsi/videobridge/EndpointMessageBuilderTest.java
+/Users/nishimuraryuu/native/jitsi-videobridge/src/test/java/org/jitsi/videobridge/rest/VideobridgeRestResourceTest.java
+/Users/nishimuraryuu/native/jitsi-videobridge/src/test/java/org/jitsi/videobridge/BridgeShutdownTest.java
+/Users/nishimuraryuu/native/jitsi-videobridge/src/test/java/org/jitsi/videobridge/ColibriUtilities.java
+/Users/nishimuraryuu/native/jitsi-videobridge/src/test/java/org/jitsi/videobridge/cc/vp8/VP8AdaptiveTrackProjectionTest.java
+/Users/nishimuraryuu/native/jitsi-videobridge/src/test/java/org/jitsi/videobridge/rest/root/colibri/shutdown/ShutdownTest.java
+/Users/nishimuraryuu/native/jitsi-videobridge/src/test/java/org/jitsi/videobridge/rest/root/colibri/stats/StatsTest.java
+/Users/nishimuraryuu/native/jitsi-videobridge/src/test/java/org/jitsi/videobridge/rest/root/colibri/debug/DebugTest.java
+/Users/nishimuraryuu/native/jitsi-videobridge/src/test/java/org/jitsi/videobridge/FocusControlTest.java
